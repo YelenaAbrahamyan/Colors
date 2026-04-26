@@ -1,0 +1,10 @@
+{
+  "Deep": {
+    "$type": "color",
+    "$value": "#f00"
+  },
+  "Deep Red": {
+    "$type": "color",
+    "$value": "#ab0000"
+  }
+}
